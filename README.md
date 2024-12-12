@@ -1,1 +1,1 @@
-+ This should be visible on the homepage!
++ This shouldn't be visible on the homepage!
